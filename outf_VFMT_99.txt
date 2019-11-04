@@ -1,0 +1,24 @@
+                time	[2015 3 20 10 29 10]
+
+subjno	subjini	age	sex	hand
+99	aaa	26	f	r
+subjno	subjini	trialnum	studydisp	respdisp	tarloc	resp	ac	rt
+99	aaa	0	prac1	prac1	2	2	1	1027.252712
+99	aaa	0	prac2	prac2	3	3	1	1618.844942
+99	aaa	0	prac3	prac3	2	2	1	867.181566
+99	aaa	1	trial1	trial1	2	2	1	649.579090
+99	aaa	2	trial2	trial2	1	2	0	770.084133
+99	aaa	3	trial3	trial3	3	2	0	477.624433
+99	aaa	4	trial_17_isi-1000_limit-4000	trial_18_sections-3_correct-1	1	2	0	539.733037
+99	aaa	5	trial_19_isi-1000_limit-4000	trial_20_sections-3_correct-1	1	1	1	375.126719
+99	aaa	6	trial_21_isi-1000_limit-4000	trial_22_sections-3_correct-1	1	2	0	385.563896
+99	aaa	7	trial_23_isi-1000_limit-4000	trial_24_sections-3_correct-2	2	1	0	532.072993
+99	aaa	8	trial_25_isi-1000_limit-4000	trial_26_sections-3_correct-1	1	1	1	607.662185
+99	aaa	9	trial_27_isi-1000_limit-4000	trial_28_sections-3_correct-1	1	1	1	385.962509
+99	aaa	10	trial_29_isi-1000_limit-4000	trial_30_sections-3_correct-2	2	1	0	330.243059
+99	aaa	11	trial_31_isi-1000_limit-4000	trial_32_sections-3_correct-1	1	1	1	342.185634
+99	aaa	12	trial_33_isi-1000_limit-4000	trial_34_sections-3_correct-1	1	1	1	449.800539
+99	aaa	13	trial_35_isi-1000_limit-4000	trial_36_sections-3_correct-2	2	1	0	585.964549
+99	aaa	14	trial_37_isi-1000_limit-4000	trial_38_sections-3_correct-2	2	1	0	331.673217
+99	aaa	15	trial_39_isi-1000_limit-4000	trial_40_sections-3_correct-2	2	1	0	335.816999
+99	aaa	16	trial_41_isi-1000_limit-4000	trial_42_sections-3_correct-2	2	2	1	1141.724952
